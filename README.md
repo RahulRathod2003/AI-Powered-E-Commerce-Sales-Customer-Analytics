@@ -4,6 +4,15 @@
 
 ---
 
+## 🚀 Live Demo
+
+**Streamlit App:**
+https://ai-powered-e-commerce-sales-customer-analytics-5xlvld2jvh4vxsc.streamlit.app/
+
+[Open Live Streamlit App](https://ai-powered-e-commerce-sales-customer-analytics-5xlvld2jvh4vxsc.streamlit.app/)
+
+---
+
 ## 📋 Project Description
 
 This project is a fully interactive e-commerce analytics dashboard that enables business users and data analysts to explore sales performance, customer behaviour, regional trends, and payment patterns — all filtered in real time. The dashboard is augmented with an AI question-and-answer engine powered by the Groq API (GPT-OSS 120B), allowing users to ask plain-English business questions and receive data-driven insights instantly.
