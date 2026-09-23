@@ -39,6 +39,7 @@ build/
 # --- Local dataset files (keep out of version control) ---
 # Remove the line below if you want to version-control sample data
 data/*.csv
+!data/clean_ecommerce_sales.csv
 
 # --- Streamlit state ---
 .streamlit/secrets.toml
